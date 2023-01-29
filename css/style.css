@@ -338,15 +338,15 @@ section{
    background-color: var(--light-black);
 }
 
-.services{
-   background: url('../images/services_bg.jpg') no-repeat rgba(0,0,0,.5);
+.therapies{
+   background: url('../images/therapies_bg.jpg') no-repeat rgba(0,0,0,.5);
    background-position: center;
    background-attachment: fixed;
    background-size: cover;
    background-blend-mode: multiply;
 }
 
-.services .grid{
+.therapies .grid{
    display: grid;
    grid-template-columns: repeat(auto-fit, 35rem);
    align-items: flex-start;
@@ -354,7 +354,7 @@ section{
    gap: 1.5rem;
 }
 
-.services .grid .box{
+.therapies .grid .box{
    background-color: var(--light-bg);
    padding: 2rem;
    backdrop-filter: blur(.4rem);
@@ -362,7 +362,7 @@ section{
    position: relative;
 }
 
-.services .grid .box .price{
+.therapies .grid .box .price{
    position: absolute;
    top: 2.9rem; left: 3rem;
    border-radius: .5rem;
@@ -371,16 +371,16 @@ section{
    padding:.8rem 1rem;
 }
 
-.services .grid .box .price i{
+.therapies .grid .box .price i{
    color: var(--main-color);
    margin-right: .5rem;
 }
 
-.services .grid .box .price span{
+.therapies .grid .box .price span{
    color: var(--white);
 }
 
-.services .grid .box .image{
+.therapies .grid .box .image{
    height: 20rem;
    width: 100%;
    object-fit: cover;
@@ -388,23 +388,23 @@ section{
    margin-bottom: 2rem;
 }
 
-.services .grid .box .name{
+.therapies .grid .box .name{
    font-size: 2rem;
    color: var(--white);
 }
 
-.services .grid .box .address{
+.therapies .grid .box .address{
    font-size: 1.7rem;
    color: var(--light-white);
    line-height: 1.5;
    padding: .5rem 0;
 }
 
-.services .grid .box:hover{
+.therapies .grid .box:hover{
    background-color: var(--light-black);
 }
 
-.services .grid .box:hover .price{
+.therapies .grid .box:hover .price{
    background-color: var(--black);
 }
 
