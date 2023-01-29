@@ -339,12 +339,12 @@ section{
 }
 
 .therapies{
-   background: url('../images/therapies_bg.jpg') no-repeat rgba(0,0,0,.5);
+   background: url('../images/services_bg.jpg') no-repeat rgba(0,0,0,.5);
    background-position: center;
    background-attachment: fixed;
    background-size: cover;
    background-blend-mode: multiply;
-}
+}  
 
 .therapies .grid{
    display: grid;
