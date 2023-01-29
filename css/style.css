@@ -92,7 +92,7 @@ section{
 .header{
    position: fixed;
    top: 0; left: 0; right: 0;
-   background: linear-gradient(0deg, transparent, var(--black));
+   background: linear-gradient(0deg, transparent, rgba(0,0,0,0.3));
    z-index: 1000;
 }
 
