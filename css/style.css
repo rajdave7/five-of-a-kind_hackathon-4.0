@@ -175,7 +175,6 @@ section{
    background: var(--light-black);
    margin: 1rem 0;
 }
-
 .home .login .btn{
    display:flexbox;
    width: 20rem;
