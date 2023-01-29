@@ -130,7 +130,7 @@ section{
 }
 
 .home{
-   background: url('../images/home_us.jpg') no-repeat rgba(0,0,0,.5);
+   background: url('../images/4.jpg') no-repeat rgba(0,0,0,0.4);
    background-position: center;
    background-attachment: fixed;
    background-size: cover;
