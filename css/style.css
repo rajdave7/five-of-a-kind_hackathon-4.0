@@ -429,7 +429,6 @@ section{
 
 .reviews .grid .box{
    position: relative;
-   /* Snell Roundhand */
    height: 40rem;
    overflow: hidden;
    border-radius: .5rem;
@@ -581,14 +580,6 @@ section{
 .contact .credit span{
    color: var(--main-color);
 }
-
-
-
-
-
-
-
-
 
 
 
